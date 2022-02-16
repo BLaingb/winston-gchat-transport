@@ -1,0 +1,25 @@
+{
+  "name": "winston-gchat-transport",
+  "version": "0.1.0",
+  "description": "A Gchat transport for winston that logs to a space via webhook",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BLaingb/winston-gchat-transport.git"
+  },
+  "keywords": [
+    "winston",
+    "transport",
+    "logger",
+    "gchat"
+  ],
+  "author": "BLaingB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BLaingb/winston-gchat-transport/issues"
+  },
+  "homepage": "https://github.com/BLaingb/winston-gchat-transport#readme"
+}
